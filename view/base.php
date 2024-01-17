@@ -21,7 +21,7 @@
             <a class="nav-link" href="#">profil</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="conection-view.php">Connexion</a>
+            <a class="nav-link" href="/index.php?page=connexion">Connexion</a>
         </li>
     </ul>
 </nav>
